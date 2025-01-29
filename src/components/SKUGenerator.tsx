@@ -13,11 +13,11 @@ const SKUGenerator = () => {
             'FLORALEAN', 'ALPHAGUMMY', 'PUREGUTPRO', 'NERVEBLISS', 'BACKSHIFTPRO'
         ],
         vsl: ['VSL1', 'VSL2', 'VSL3', 'VSL4', 'VSL5', 'VSL6', 'VSL7', 'VSL8', 'VSL9', 'VSL10'],
-        rede: ['FACEBOOK', 'GOOGLE', 'SEARCH', 'NATIVE', 'AFILIADOS'],
-        tipo_de_venda: ['FRONT', 'BACKREDIRECT', 'UPSELL', 'DOWNSELL'],
+        rede: ['FACEBOOK', 'GOOGLE', 'SEARCH', 'NATIVE', 'AFILIADOS', 'CALLCENTER', 'EMAIL', 'SMS'],
+        tipo_de_venda: ['FRONT', 'BACKREDIRECT', 'UPSELL', 'DOWNSELL', 'CALL'],
         kit: ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10'],
         preco: [
-            '19', '29', '39', '49', '59', '69', '79', '89', '99',
+            '5','19', '29', '39', '49', '59', '69', '79', '89', '99',
             '109', '119', '129', '147', '149', '177', '198', '234', '294'
         ]
     };
